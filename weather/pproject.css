@@ -1,0 +1,75 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-image: url('pproject.jpeg');  
+    background-size: cover;
+    font-family: 'Arial';  
+
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background:white;  
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color:white; 
+    padding: 20px;  
+}  
+#fb,#insta,#google{  
+    text-align: center;
+    width: 200px;  
+    height: 30px;  
+    border-color: black;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Uname{  
+    border-color: black;
+    text-align: center;
+    width: 200px;  
+    height: 30px;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    border-color: black;
+    text-align: center;
+    width: 200px;  
+    height: 30px;   
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{ 
+    margin-right: 120px;
+    width: 200px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 7px;  
+    padding-right: 7px;
+    color: black;  
+  
+  
+}  
+span{  
+    color: white;  
+    font-size: 17px; 
+    
+}  
+a{  
+    float: right;  
+    margin-left: 10px;
+}  
+.fa-facebook-official,.fa-instagram,.fa-google{
+    margin-top: 9px;
+    position: absolute;
+    left: 450px;
+    color: black;
+}
